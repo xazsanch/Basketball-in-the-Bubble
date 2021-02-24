@@ -1,0 +1,480 @@
+,PLAYER,POS,TEAM
+0,John Collins,PF,ATL
+1,Kevin Huerter,SG,ATL
+2,Solomon Hill,PF,ATL
+3,Trae Young,PG,ATL
+4,Clint Capela,C,ATL
+5,Cam Reddish,SF,ATL
+6,Brandon Goodwin,PG,ATL
+7,De'Andre Hunter,SF,ATL
+8,Danilo Gallinari,PF,ATL
+9,Tony Snell,SG,ATL
+10,Bruno Fernando,C,ATL
+11,Rajon Rondo,PG,ATL
+12,Skylar Mays (TW),SG,ATL
+13,Bogdan Bogdanović,SG,ATL
+14,Nathan Knight (TW),PF,ATL
+15,Onyeka Okongwu,C,ATL
+16,Kris Dunn,PG,ATL
+17,Semi Ojeleye,PF,BOS
+18,Jaylen Brown,SG,BOS
+19,Daniel Theis,C,BOS
+20,Tristan Thompson,PF,BOS
+21,Jayson Tatum,SF,BOS
+22,Grant Williams,PF,BOS
+23,Payton Pritchard,SG,BOS
+24,Jeff Teague,PG,BOS
+25,Robert Williams,C,BOS
+26,Javonte Green,SG,BOS
+27,Marcus Smart,PG,BOS
+28,Kemba Walker,PG,BOS
+29,Aaron Nesmith,SF,BOS
+30,Carsen Edwards,SG,BOS
+31,Tremont Waters (TW),PG,BOS
+32,Tacko Fall (TW),C,BOS
+33,Romeo Langford,SG,BOS
+34,Joe Harris,SF,BRK
+35,Jeff Green,PF,BRK
+36,Timothé Luwawu-Cabarrot,SF,BRK
+37,DeAndre Jordan,C,BRK
+38,Landry Shamet,SG,BRK
+39,Bruce Brown,PG,BRK
+40,Kyrie Irving,PG,BRK
+41,Kevin Durant,PF,BRK
+42,James Harden,SG,BRK
+43,Tyler Johnson,SG,BRK
+44,Reggie Perry (TW),PF,BRK
+45,Chris Chiozza (TW),PG,BRK
+46,Noah Vonleh,PF,BRK
+47,Spencer Dinwiddie,SG,BRK
+48,Andre Roberson,G-F,BRK
+49,Iman Shumpert,G,BRK
+50,Nicolas Claxton,C,BRK
+51,Zach LaVine,SG,CHI
+52,Coby White,PG,CHI
+53,Patrick Williams,PF,CHI
+54,Garrett Temple,SG,CHI
+55,Thaddeus Young,PF,CHI
+56,Denzel Valentine,SG,CHI
+57,Daniel Gafford,PF,CHI
+58,Wendell Carter Jr.,C,CHI
+59,Tomáš Satoranský,SG,CHI
+60,Otto Porter,SF,CHI
+61,Lauri Markkanen,PF,CHI
+62,Ryan Arcidiacono,PG,CHI
+63,Chandler Hutchison,SF,CHI
+64,Adam Mokoka (TW),SG,CHI
+65,Luke Kornet,PF,CHI
+66,Cristiano Felício,C,CHI
+67,Devon Dotson (TW),PG,CHI
+68,LaMelo Ball,PG,CHO
+69,Miles Bridges,PF,CHO
+70,Gordon Hayward,SF,CHO
+71,Terry Rozier,SG,CHO
+72,Bismack Biyombo,C,CHO
+73,Devonte' Graham,PG,CHO
+74,P.J. Washington,PF,CHO
+75,Caleb Martin,SF,CHO
+76,Cody Martin,SF,CHO
+77,Malik Monk,SG,CHO
+78,Cody Zeller,C,CHO
+79,Jalen McDaniels,SF,CHO
+80,Nick Richards,PF,CHO
+81,Vernon Carey Jr.,C,CHO
+82,Nate Darling (TW),SG,CHO
+83,Grant Riller (TW),PG,CHO
+84,Cedi Osman,SF,CLE
+85,Collin Sexton,SG,CLE
+86,Andre Drummond,C,CLE
+87,Isaac Okoro,SG,CLE
+88,Damyean Dotson,SG,CLE
+89,Dean Wade,PF,CLE
+90,Darius Garland,PG,CLE
+91,JaVale McGee,C,CLE
+92,Larry Nance Jr.,PF,CLE
+93,Lamar Stevens (TW),PF,CLE
+94,Jarrett Allen,C,CLE
+95,Dylan Windler,SF,CLE
+96,Taurean Prince,PF,CLE
+97,Marques Bolden (TW),C,CLE
+98,Kevin Love,PF,CLE
+99,Matthew Dellavedova,PG,CLE
+100,Luka Dončić,PG,DAL
+101,Tim Hardaway Jr.,SG,DAL
+102,Trey Burke,PG,DAL
+103,Willie Cauley-Stein,C,DAL
+104,Jalen Brunson,PG,DAL
+105,James Johnson,PF,DAL
+106,Josh Richardson,SG,DAL
+107,Dorian Finney-Smith,PF,DAL
+108,Kristaps Porziņģis,C,DAL
+109,Maxi Kleber,PF,DAL
+110,Dwight Powell,C,DAL
+111,Josh Green,SG,DAL
+112,Wesley Iwundu,SF,DAL
+113,Boban Marjanović,C,DAL
+114,Tyrell Terry,PG,DAL
+115,Nate Hinton (TW),SG,DAL
+116,Tyler Bey (TW),SF,DAL
+117,Nikola Jokić,C,DEN
+118,Monte Morris,PG,DEN
+119,Jamal Murray,PG,DEN
+120,Will Barton,SF,DEN
+121,Paul Millsap,PF,DEN
+122,Facundo Campazzo,PG,DEN
+123,JaMychal Green,PF,DEN
+124,R.J. Hampton,PG,DEN
+125,Michael Porter Jr.,SF,DEN
+126,Gary Harris,SG,DEN
+127,Isaiah Hartenstein,C,DEN
+128,PJ Dozier,SG,DEN
+129,Zeke Nnaji,PF,DEN
+130,Markus Howard (TW),SG,DEN
+131,Vlatko Čančar,PF,DEN
+132,Bol Bol,PF,DEN
+133,Greg Whittington (TW),PF,DEN
+134,Jerami Grant,SF,DET
+135,Delon Wright,SG,DET
+136,Sviatoslav Mykhailiuk,SF,DET
+137,Josh Jackson,SG,DET
+138,Mason Plumlee,C,DET
+139,Saddiq Bey,SF,DET
+140,Isaiah Stewart,C,DET
+141,Sekou Doumbouya,PF,DET
+142,Wayne Ellington,SG,DET
+143,Blake Griffin,PF,DET
+144,Jahlil Okafor,C,DET
+145,Rodney McGruder,SG,DET
+146,Saben Lee (TW),PG,DET
+147,Killian Hayes,PG,DET
+148,Frank Jackson (TW),PG,DET
+149,Dennis Smith Jr.,PG,DET
+150,Deividas Sirvydis,SG,DET
+151,Andrew Wiggins,PF,GSW
+152,Kelly Oubre Jr.,SF,GSW
+153,Damion Lee,SG,GSW
+154,Brad Wanamaker,PG,GSW
+155,Stephen Curry,PG,GSW
+156,Mychal Mulder,PG,GSW
+157,Kent Bazemore,SF,GSW
+158,Eric Paschall,PF,GSW
+159,Draymond Green,PF,GSW
+160,Kevon Looney,C,GSW
+161,James Wiseman,C,GSW
+162,Juan Toscano-Anderson (TW),SG,GSW
+163,Jordan Poole,SG,GSW
+164,Nico Mannion (TW),PG,GSW
+165,Marquese Chriss,PF,GSW
+166,Klay Thompson,SG,GSW
+167,Alen Smailagić,PF,GSW
+168,Jae'Sean Tate,SF,HOU
+169,Sterling Brown,SG,HOU
+170,P.J. Tucker,PF,HOU
+171,DeMarcus Cousins,C,HOU
+172,David Nwaba,SF,HOU
+173,Eric Gordon,SG,HOU
+174,Ben McLemore,SG,HOU
+175,John Wall,PG,HOU
+176,Mason Jones (TW),SG,HOU
+177,Christian Wood,C,HOU
+178,Danuel House,SF,HOU
+179,Victor Oladipo,SG,HOU
+180,Rodions Kurucs,SF,HOU
+181,Kenyon Martin Jr.,SF,HOU
+182,Kevin Porter Jr.,G,HOU
+183,Dante Exum,G,HOU
+184,Malcolm Brogdon,PG,IND
+185,Domantas Sabonis,PF,IND
+186,Justin Holiday,SG,IND
+187,Aaron Holiday,PG,IND
+188,Doug McDermott,PF,IND
+189,Myles Turner,C,IND
+190,T.J. McConnell,PG,IND
+191,Jeremy Lamb,SG,IND
+192,Edmond Sumner,SG,IND
+193,Goga Bitadze,C,IND
+194,JaKarr Sampson,PF,IND
+195,Kelan Martin,SF,IND
+196,Cassius Stanley (TW),SG,IND
+197,T.J. Warren,SF,IND
+198,Jalen Lecque,PG,IND
+199,Brian Bowen (TW),SF,IND
+200,Caris LeVert,G-F,IND
+201,Ivica Zubac,C,LAC
+202,Serge Ibaka,C,LAC
+203,Lou Williams,PG,LAC
+204,Luke Kennard,SG,LAC
+205,Nicolas Batum,SF,LAC
+206,Reggie Jackson,SG,LAC
+207,Terance Mann,SG,LAC
+208,Kawhi Leonard,SF,LAC
+209,Marcus Morris,PF,LAC
+210,Paul George,SF,LAC
+211,Patrick Beverley,PG,LAC
+212,Amir Coffey (TW),SG,LAC
+213,Mfiondu Kabengele,PF,LAC
+214,Patrick Patterson,PF,LAC
+215,Daniel Oturu,C,LAC
+216,Jay Scrubb (TW),SG,LAC
+217,LeBron James,PG,LAL
+218,Montrezl Harrell,C,LAL
+219,Kyle Kuzma,SF,LAL
+220,Marc Gasol,C,LAL
+221,Dennis Schröder,SG,LAL
+222,Kentavious Caldwell-Pope,SG,LAL
+223,Talen Horton-Tucker,SG,LAL
+224,Markieff Morris,PF,LAL
+225,Wesley Matthews,SG,LAL
+226,Alex Caruso,PG,LAL
+227,Anthony Davis,PF,LAL
+228,Quinn Cook,PG,LAL
+229,Alfonzo McKinnie,SF,LAL
+230,Jared Dudley,PF,LAL
+231,Devontae Cacok (TW),PF,LAL
+232,Kostas Antetokounmpo (TW),PF,LAL
+233,Tyus Jones,PG,MEM
+234,Kyle Anderson,PF,MEM
+235,Dillon Brooks,SF,MEM
+236,Desmond Bane,SG,MEM
+237,Jonas Valančiūnas,C,MEM
+238,Brandon Clarke,PF,MEM
+239,Xavier Tillman Sr.,PF,MEM
+240,Grayson Allen,SG,MEM
+241,Gorgui Dieng,C,MEM
+242,Ja Morant,PG,MEM
+243,John Konchar,SG,MEM
+244,De'Anthony Melton,PG,MEM
+245,Sean McDermott (TW),SF,MEM
+246,Justise Winslow,SF,MEM
+247,Jontay Porter,PF,MEM
+248,Jaren Jackson Jr.,C,MEM
+249,Killian Tillie (TW),C,MEM
+250,Khris Middleton,SF,MIL
+251,Bobby Portis,C,MIL
+252,Brook Lopez,C,MIL
+253,Donte DiVincenzo,SG,MIL
+254,Bryn Forbes,SG,MIL
+255,Giannis Antetokounmpo,PF,MIL
+256,D.J. Augustin,PG,MIL
+257,Pat Connaughton,SG,MIL
+258,Jrue Holiday,PG,MIL
+259,Thanasis Antetokounmpo,SF,MIL
+260,Torrey Craig,SF,MIL
+261,Jordan Nwora,SF,MIL
+262,D.J. Wilson,PF,MIL
+263,Sam Merrill,SG,MIL
+264,Jaylen Adams (TW),PG,MIL
+265,Mamadi Diakite (TW),PF,MIL
+266,Malik Beasley,SG,MIN
+267,Anthony Edwards,SG,MIN
+268,Naz Reid,C,MIN
+269,Ricky Rubio,PG,MIN
+270,Jarred Vanderbilt,PF,MIN
+271,Jaden McDaniels,PF,MIN
+272,Josh Okogie,SG,MIN
+273,D'Angelo Russell,PG,MIN
+274,Jake Layman,SF,MIN
+275,Ed Davis,C,MIN
+276,Jordan McLaughlin (TW),PG,MIN
+277,Jaylen Nowell,SG,MIN
+278,Jarrett Culver,SG,MIN
+279,Juan Hernangómez,PF,MIN
+280,Karl-Anthony Towns,C,MIN
+281,Brandon Ingram,SF,NOP
+282,Josh Hart,SF,NOP
+283,Zion Williamson,PF,NOP
+284,Eric Bledsoe,SG,NOP
+285,Steven Adams,C,NOP
+286,Lonzo Ball,PG,NOP
+287,J.J. Redick,SG,NOP
+288,Nickeil Alexander-Walker,SG,NOP
+289,Jaxson Hayes,C,NOP
+290,Kira Lewis Jr.,PG,NOP
+291,Willy Hernangómez,C,NOP
+292,Nicolò Melli,PF,NOP
+293,Sindarius Thornwell,SG,NOP
+294,Wenyen Gabriel,PF,NOP
+295,Naji Marshall (TW),SF,NOP
+296,Will Magnay (TW),C,NOP
+297,Julius Randle,PF,NYK
+298,RJ Barrett,SG,NYK
+299,Elfrid Payton,PG,NYK
+300,Mitchell Robinson,C,NYK
+301,Immanuel Quickley,PG,NYK
+302,Reggie Bullock,SF,NYK
+303,Nerlens Noel,C,NYK
+304,Kevin Knox,SF,NYK
+305,Austin Rivers,SG,NYK
+306,Obi Toppin,PF,NYK
+307,Alec Burks,SG,NYK
+308,Theo Pinson (TW),SG,NYK
+309,Taj Gibson,PF,NYK
+310,Derrick Rose,PG,NYK
+311,Frank Ntilikina,PG,NYK
+312,Ignas Brazdeikis,SF,NYK
+313,Jared Harper (TW),PG,NYK
+314,Hamidou Diallo,SG,OKC
+315,Darius Bazley,PF,OKC
+316,Kenrich Williams,PF,OKC
+317,Luguentz Dort,SG,OKC
+318,Mike Muscala,C,OKC
+319,Théo Maledon,PG,OKC
+320,Shai Gilgeous-Alexander,SG,OKC
+321,Isaiah Roby,PF,OKC
+322,Al Horford,C,OKC
+323,Justin Jackson,SF,OKC
+324,Aleksej Pokusevski,PF,OKC
+325,George Hill,PG,OKC
+326,Darius Miller,SF,OKC
+327,Moses Brown (TW),C,OKC
+328,Josh Hall,SF,OKC
+329,Omer Yurtseven,C,OKC
+330,Ty Jerome,SG,OKC
+331,Trevor Ariza,SF,OKC
+332,Nikola Vučević,C,ORL
+333,Dwayne Bacon,SG,ORL
+334,Khem Birch,C,ORL
+335,Terrence Ross,SG,ORL
+336,Gary Clark,SF,ORL
+337,Cole Anthony,PG,ORL
+338,James Ennis,SF,ORL
+339,Aaron Gordon,PF,ORL
+340,Evan Fournier,SF,ORL
+341,Chuma Okeke,PF,ORL
+342,Mo Bamba,C,ORL
+343,Michael Carter-Williams,SG,ORL
+344,Markelle Fultz,PG,ORL
+345,Karim Mané (TW),PG,ORL
+346,Al-Farouq Aminu,PF,ORL
+347,Chasson Randle (TW),PG,ORL
+348,Jonathan Isaac,PF,ORL
+349,Danny Green,SF,PHI
+350,Dwight Howard,C,PHI
+351,Tyrese Maxey,SG,PHI
+352,Tobias Harris,PF,PHI
+353,Matisse Thybulle,SG,PHI
+354,Ben Simmons,PG,PHI
+355,Joel Embiid,C,PHI
+356,Seth Curry,SG,PHI
+357,Shake Milton,SG,PHI
+358,Furkan Korkmaz,SG,PHI
+359,Isaiah Joe,SG,PHI
+360,Mike Scott,PF,PHI
+361,Tony Bradley,C,PHI
+362,Terrance Ferguson,SG,PHI
+363,Paul Reed (TW),PF,PHI
+364,Vincent Poirier,C,PHI
+365,Rayjon Tucker (TW),F,PHI
+366,Mikal Bridges,SF,PHO
+367,Deandre Ayton,C,PHO
+368,Cameron Johnson,PF,PHO
+369,Chris Paul,PG,PHO
+370,Jae Crowder,PF,PHO
+371,Devin Booker,SG,PHO
+372,Jevon Carter,PG,PHO
+373,Langston Galloway,SG,PHO
+374,Frank Kaminsky,C,PHO
+375,Cameron Payne,PG,PHO
+376,E'Twaun Moore,SG,PHO
+377,Abdel Nader,SF,PHO
+378,Damian Jones,C,PHO
+379,Dario Šarić,PF,PHO
+380,Jalen Smith,PF,PHO
+381,Ty-Shon Alexander (TW),SG,PHO
+382,Enes Kanter,C,POR
+383,Damian Lillard,PG,POR
+384,Carmelo Anthony,PF,POR
+385,Gary Trent Jr.,SG,POR
+386,Robert Covington,PF,POR
+387,Anfernee Simons,SG,POR
+388,Derrick Jones Jr.,SF,POR
+389,Rodney Hood,SF,POR
+390,Harry Giles,C,POR
+391,Nassir Little,PF,POR
+392,CJ McCollum,SG,POR
+393,Jusuf Nurkić,C,POR
+394,CJ Elleby,SF,POR
+395,Keljin Blevins (TW),SF,POR
+396,Zach Collins,PF,POR
+397,Buddy Hield,SG,SAC
+398,Cory Joseph,PG,SAC
+399,De'Aaron Fox,PG,SAC
+400,Harrison Barnes,PF,SAC
+401,Marvin Bagley III,PF,SAC
+402,Tyrese Haliburton,PG,SAC
+403,Richaun Holmes,C,SAC
+404,Glenn Robinson III,SF,SAC
+405,Hassan Whiteside,C,SAC
+406,Nemanja Bjelica,PF,SAC
+407,Chimezie Metu (TW),C,SAC
+408,Kyle Guy (TW),PG,SAC
+409,Justin James,SF,SAC
+410,Robert Woodard,SF,SAC
+411,DaQuan Jeffries,SG,SAC
+412,Jahmi'us Ramsey,SG,SAC
+413,Jabari Parker,PF,SAC
+414,Dejounte Murray,PG,SAS
+415,Keldon Johnson,SF,SAS
+416,Patty Mills,PG,SAS
+417,Jakob Poeltl,C,SAS
+418,Rudy Gay,PF,SAS
+419,Devin Vassell,SF,SAS
+420,DeMar DeRozan,PF,SAS
+421,Lonnie Walker,SG,SAS
+422,LaMarcus Aldridge,C,SAS
+423,Trey Lyles,PF,SAS
+424,Drew Eubanks,C,SAS
+425,Tre Jones,PG,SAS
+426,Derrick White,SG,SAS
+427,Keita Bates-Diop (TW),SF,SAS
+428,Quinndary Weatherspoon (TW),SG,SAS
+429,Luka Šamanić,PF,SAS
+430,Fred VanVleet,SG,TOR
+431,Chris Boucher,C,TOR
+432,Norman Powell,SG,TOR
+433,Pascal Siakam,PF,TOR
+434,Aron Baynes,C,TOR
+435,Stanley Johnson,PF,TOR
+436,Kyle Lowry,PG,TOR
+437,Terence Davis,SG,TOR
+438,DeAndre' Bembry,SF,TOR
+439,Yuta Watanabe (TW),SF,TOR
+440,OG Anunoby,SF,TOR
+441,Matt Thomas,SG,TOR
+442,Malachi Flynn,PG,TOR
+443,Paul Watson,SF,TOR
+444,Jalen Harris (TW),SG,TOR
+445,Patrick McCaw,SF,TOR
+446,Jordan Clarkson,SG,UTA
+447,Bojan Bogdanović,SF,UTA
+448,Rudy Gobert,C,UTA
+449,Royce O'Neale,SF,UTA
+450,Georges Niang,PF,UTA
+451,Donovan Mitchell,SG,UTA
+452,Derrick Favors,C,UTA
+453,Joe Ingles,SF,UTA
+454,Mike Conley,PG,UTA
+455,Miye Oni,SG,UTA
+456,Shaquille Harrison,SG,UTA
+457,Juwan Morgan,PF,UTA
+458,Udoka Azubuike,C,UTA
+459,Jarrell Brantley (TW),PF,UTA
+460,Elijah Hughes,SF,UTA
+461,Trent Forrest (TW),PG,UTA
+462,Robin Lopez,C,WAS
+463,Bradley Beal,SG,WAS
+464,Dāvis Bertāns,PF,WAS
+465,Deni Avdija,SF,WAS
+466,Raul Neto,PG,WAS
+467,Garrison Mathews (TW),SG,WAS
+468,Russell Westbrook,PG,WAS
+469,Rui Hachimura,PF,WAS
+470,Ish Smith,PG,WAS
+471,Isaac Bonga,SF,WAS
+472,Moritz Wagner,C,WAS
+473,Alex Len,C,WAS
+474,Jerome Robinson,SG,WAS
+475,Troy Brown Jr.,SF,WAS
+476,Thomas Bryant,C,WAS
+477,Anthony Gill,PF,WAS
+478,Cassius Winston (TW),PG,WAS
