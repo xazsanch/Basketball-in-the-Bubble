@@ -16,8 +16,8 @@ df = list(df['PLAYER'])
 
 for i,player in enumerate(df):
     if i == 0:
-        game_log = get_game_logs(player, '2019-04-13', '2019-06-13', playoffs=True)
-    df_to_add = get_game_logs(player, '2019-04-13', '2019-06-13', playoffs=True)
+        game_log = get_game_logs(player, '2018-10-16', '2019-04-10', playoffs=False)
+    df_to_add = get_game_logs(player, '2018-10-16', '2019-04-10', playoffs=False)
     game_log = pd.concat([game_log, df_to_add])
 
-game_log.to_csv('2018-2019 Game Log Playoffs.csv')
+game_log.to_csv('2018-2019 Game Log.csv')
