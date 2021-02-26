@@ -138,3 +138,7 @@ Though the 2020 NBA Playoffs in the Bubble provided some of the most exciting ba
 
 There can still be further investigation done, as this contained environment provides the perfect place to continue conducting hypothesis testings.
  
+## Feedback from Presentation:
+* Ommitted EDA from presentation, and focused too much on hypothesis testing. If I stuck to one hypothesis, and detailed all the EDA leading up into it, I feel like I would've been in a lot better shape.
+* Include size of dataset, how I cleaned it up, Alpha Values and P-Values, types of tests conducted, Alternate hypothesis
+* Include Future Studies and conclusions
