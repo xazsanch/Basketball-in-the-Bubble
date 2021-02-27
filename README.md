@@ -53,7 +53,8 @@ Besides the metrics of focus, the datasets also included Categorial information,
 ___
 To begin, I subsetted my data set to only look at HOME Games. I grouped the player level data by TEAM, to aggregate the records and provide an accurate account of games played.
 
-![img]('images/HomeCourtAdvantage/Margin\ of\ Victory\ for\ Playoff\ Teams\ in\ 2019\ and\ 2020\ Post\ Season.png')
+<img src="images/HomeCourtAdvantage/HCA2020RegVsPost.png" width="525"/>
+
 
 During this process, I was able to identify a decrease in the average Margin of Victory from the 2019 Post Season to the "Bubble" 2020 Season. As I wanted to be more thorough in selecting the appropriate samples to perform my hypothesis testing, I looked at the 2020 Regular Season to compare with the 2020 Post Season. I felt this would be more of an apt-comparison, and so I filtered down the 2019-2020 Game Logs to only include data from the teams that made it to the Playoffs, so that it would be more of a 1:1 comparison for hypothesis testing. 
 
