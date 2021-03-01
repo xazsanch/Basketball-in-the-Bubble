@@ -11,9 +11,9 @@ An investigation into the unique experience of the 2020 NBA Post Season (or Play
     * [Data Clean Up](##Data-Clean-Up)
 * [Exploratory Data Analysis](#Exploratory-Data-Analysis)
     * [Initial EDA](##Initial-EDA)
-    * [EDA: Home Court Advantage and Margin of Victory](##-EDA:-Home-Court-Advantage-and-Margin-of-Victory)
-    * [EDA: Shooting Statistics](##-EDA:-Shooting-Statistics)
-    * [EDA: Offensive Rating (ORtg) and Defensive Rating (DRtg)](##-EDA:-Offensive-Rating-(ORtg)-and-Defensive-Rating-(DRtg))
+    * [EDA: Home Court Advantage and Margin of Victory](##EDA:-Home-Court-Advantage-and-Margin-of-Victory)
+    * [EDA: Shooting Statistics](##EDA:-Shooting-Statistics)
+    * [EDA: Offensive Rating (ORtg) and Defensive Rating (DRtg)](##EDA:-Offensive-Rating-(ORtg)-and-Defensive-Rating-(DRtg))
 * [Hypothesis Testing](#Hypothesis-Testing)
     * [Home Court Advantage and Margin of Victory](##Home-Court-Advantage-and-Margin-of-Victory)
     * [Free Throw Percentage Changes from the Regular Season to the Bubble](##-Free-Throw-Percentage-Changes-from-the-Regular-Season-to-the-Bubble)
@@ -73,12 +73,11 @@ The datasets include over 25 features, such as, such as categorial information l
 ## Initial EDA
 Comparing the average amount of points scored in Post Seasons:
 
-<img src="images/avgpointsPS.png" width="700"/>
+<img src="images/avgpointsPS.png" width="300"/>
 
 Comparing FG% between Post Seasons:
 
-<img src="images/avgFG%.png" width="700"/>
-
+<img src="images/avgFG.png" width="300"/>
 
 My first pass through of EDA involved 1:1 comparisons of Post-Seasons to each other. Looking at the counting stats, I realized that condensing all of the entire data into one singular metric to chart, did not provide quite enough context to pull meaningful insight from.
 
@@ -86,7 +85,7 @@ As I began to shift my plotting from bar charts to histograms, I started to get 
 
 Distribution of Points scored in 2019 vs 2020 Post Season:
 
-<img src="images/pointsdistPS.png" width="700"/>
+<img src="images/pointsdistPS.png" width="800"/>
 
 
 Because there were many different ways to look into the data, I decided to split up my focus for EDA into three sections:
@@ -101,15 +100,13 @@ The Game Logs contain information if a game was played on either a HOME or AWAY 
 
 *Comparison of Margin of Victory for Home Games in 2019 Post Season to Home Games in 2020 Post Season*
 
-<img src="images/HomeCourtAdvantage/marginpost20192020.png
-" width="700"/>
+<img src="images/HomeCourtAdvantage/marginpost20192020.png" width="700"/>
 
 During this process, I was able to identify a decrease in the average Margin of Victory from the 2019 Post Season to the "Bubble" 2020 Season. As I wanted to be more thorough in selecting the appropriate samples to perform my hypothesis testing, I looked at the 2020 Regular Season to compare with the 2020 Post Season. I felt this would be more of an apt-comparison, and so I filtered down the 2019-2020 Game Logs to only include data from the teams that made it to the Playoffs, so that it would be more of a 1:1 comparison for hypothesis testing. 
 
 My next look into the data examined the *distribution of Margin for Regular Season games in 2020*:
 
-<img src="images/HomeCourtAdvantage/marginRS2020.png
-" width="700"/>
+<img src="images/HomeCourtAdvantage/marginRS2020.png" width="700"/>
 
 *Descriptive Stats for Margin for 2020 Regular Season*
 | TEAM |  Mean  |  Std  |  Min  |  Max  |
@@ -133,8 +130,7 @@ My next look into the data examined the *distribution of Margin for Regular Seas
 
 *Margin distribution for Post Season games in 2020:*
 
-<img src="images/HomeCourtAdvantage/marginPS2020.png
-" width="700"/>
+<img src="images/HomeCourtAdvantage/marginPS2020.png" width="700"/>
 
 Since the Regular Season data set only focuses on game logs of players/teams in the 2020 Playoffs, the data is not mirrored because it includes records of games played against teams that do not make it into the Playoffs. The Post Season graph is mirrored, due to the game logs being an exact match: Each margin of victory is account for another team's margin of loss, and vice-versa. 
 
@@ -179,7 +175,7 @@ My first idea was to begin with TS%, since it takes into account all the shootin
 
 Avg True Shooting % in 2020 Post Season along with Number of Games Played in Playoffs. The blue bars give reference to the number of records being factored into the Avg TS%. As the tournament progresses, teams are eliminated, and the data pool grows smaller. 
 
-![](2021-02-27-08-23-04.png)
+<img src="images/TSGamesPlayed.png" width="700"/>
 
 Unfortunately, TS% by Games Played did not provide me with much to go on from there. I figured the time-series route was a dead-end, and decided to try factoring in Home/Away games in my EDA. 
 
@@ -234,7 +230,7 @@ Using an alpha of 0.05, based on the p-values observed, I fail to reject the nul
 
 **HA: Average FT% inside the Bubble (Home/Away) is different as the FT% from the 2020 Regular Season**
 
-<img src="images/ShootingStats/avgFT%RSPS.png" width="700"/>
+<img src="images/ShootingStats/avgFTRSPS.png" width="700"/>
 
 After dividing the FT% statistics over the course of Regular Season to Post Season, from 2019 and 2020, I decided to slice the data with the 2020 Post Season as one sample, compared to Away Regular season games.
 
