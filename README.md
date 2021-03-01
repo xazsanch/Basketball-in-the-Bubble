@@ -73,11 +73,11 @@ The datasets include over 25 features, such as, such as categorial information l
 ## Initial EDA
 Comparing the average amount of points scored in Post Seasons:
 
-![](2021-02-27-08-16-02.png)
+<img src="images/avgpointsPS.png" width="700"/>
 
 Comparing FG% between Post Seasons:
 
-![](2021-02-27-08-15-25.png)
+<img src="images/avgFG%.png" width="700"/>
 
 
 My first pass through of EDA involved 1:1 comparisons of Post-Seasons to each other. Looking at the counting stats, I realized that condensing all of the entire data into one singular metric to chart, did not provide quite enough context to pull meaningful insight from.
@@ -86,7 +86,7 @@ As I began to shift my plotting from bar charts to histograms, I started to get 
 
 Distribution of Points scored in 2019 vs 2020 Post Season:
 
-![](2021-02-27-08-16-49.png)
+<img src="images/pointsdistPS.png" width="700"/>
 
 
 Because there were many different ways to look into the data, I decided to split up my focus for EDA into three sections:
