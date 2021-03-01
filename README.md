@@ -73,11 +73,11 @@ The datasets include over 25 features, such as, such as categorial information l
 ## Initial EDA
 Comparing the average amount of points scored in Post Seasons:
 
-<img src="images/avgpointsPS.png" width="300"/>
+<img src="images/avgpointsPS.png" width="600"/>
 
 Comparing FG% between Post Seasons:
 
-<img src="images/avgFG.png" width="300"/>
+<img src="images/avgFG.png" width="600"/>
 
 My first pass through of EDA involved 1:1 comparisons of Post-Seasons to each other. Looking at the counting stats, I realized that condensing all of the entire data into one singular metric to chart, did not provide quite enough context to pull meaningful insight from.
 
@@ -243,7 +243,7 @@ Using an alpha of 0.05, based on the p-values observed, I fail to reject the nul
 
 **H0: ORtg is different in the Bubble as the 2020 Regular Season**
 
-<img src="images/RatingChanges/RatingDiff.png" width="700"/>
+<img src="images/RatingChanges/RatingsDiff.png" width="700"/>
 
 Since this data set was substantially smaller than the previous data sets, I plotted the Playoff Teams's difference of their ORtg from their Regular Season ratings. 
 
@@ -256,7 +256,7 @@ The Mann-Whitney U test produced a p-value of 0.076, so I fail to reject the nul
 
 **H0: DRtg is different in the Bubble as the 2020 Regular Season**
 
-<img src="images/RatingChanges/RatingDiff.png" width="700"/>
+<img src="images/RatingChanges/RatingsDiff.png" width="700"/>
 
 Since DRtg is a positive number, I captured the positive difference (the Team is allowing more points to be scored on them on defense) as a negative value. Again, since this data set was substantially smaller than the previous data sets, I plotted the Playoff Teams's difference of their ORtg and DRtg from their Regular Season ratings. 
 
