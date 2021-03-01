@@ -24,7 +24,6 @@ An investigation into the unique experience of the 2020 NBA Post Season (or Play
 
 
 ## Overview
-___
 Inquisitive basketball fans typically perform an "eye-test" for certain players, teams, or even conferences. An "eye-test" is a subjective measurement to gauge a subject's performance (ie. "After watching that buzzer beater in the Bubble, Luka Doncic is the best player in the NBA"). There is a lot of feeling that goes into making these assertions, as well as personal bias. The 2020 NBA Playoffs, commonly known as "The Bubble", offered a once-in-a-lifetime experience for teams, providing them an environment free from distraction. No fans loudly cheering in a raucous arena, no front-row big shots heckling players in the middle of the game, and no opportunity to leave or travel outside of the Disneyworld Campus. 
 
 ## Pesonal Motivation
@@ -96,7 +95,6 @@ Because there were many different ways to look into the data, I decided to split
 * Offensive/Defensive Rating and Pace
 
 ## EDA: Home Court Advantage and Margin of Victory
-___
 Walking into an opponent's home territory can be a scary thing. Before the Warriors moved to San Francisco City, their Oakland stadium was aptly named, "R-Oracle Arena", due to their record breaking decibal levels. But does Home Court make a statistical difference in basketball? And if so, would removing it and leveling the playing field even out the outcomes of games? 
 
 The Game Logs contain information if a game was played on either a HOME or AWAY court, and the resulting Margin (positive for a victory, negative for a loss). I grouped the player level data by TEAM, to aggregate the records and provide an accurate account of games played.
@@ -220,7 +218,6 @@ Looking at the difference in Pace of Teams within the Playoffs, it will be inter
 # Hypothesis Testing
 
 ## Home Court Advantage and Margin of Victory
-___
 **H0: Home Court Advantage (Margin of Victory in Home Games) is the same in the Bubble as it was in the Regular Season**
 
 **HA: Home Court Advantage (Margin of Victory in Home Games) is different in the Bubble as it was in the Regular Season**
@@ -246,7 +243,6 @@ Based on the distribution plots, displayed an increase in FT% for the 2020 Post 
 Using an alpha of 0.05, based on the p-values observed, I fail to reject the null hypothesis that the Average FT% inside the Bubble (Home/Away) is the same as the FT% from the 2020 Regular Season
 
 ## Offensive Rating (ORtg) 
-___
 **H0: ORtg is the same in the Bubble as the 2020 Regular Season**
 
 **H0: ORtg is different in the Bubble as the 2020 Regular Season**
@@ -260,7 +256,6 @@ And since I was working on a small data set with the same indexed values, Teams,
 The Mann-Whitney U test produced a p-value of 0.076, so I fail to reject the null hypothesis that ORtg is the same in the Bubble as the 2020 Regular Season.
 
 ##  Defensive Rating (DRtg)
-___
 **H0: DRtg is the same in the Bubble as the 2020 Regular Season**
 
 **H0: DRtg is different in the Bubble as the 2020 Regular Season**
